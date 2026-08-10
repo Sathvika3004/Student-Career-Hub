@@ -49,11 +49,3 @@ S. Sathvika
 
 A student project focused on building a useful and accessible platform for student career development.
 
-
-### One small thing 👀
-
-I included `roadmap.html` and `style.css` based on the structure we discussed, **but if your actual filenames are different, don't blindly use those names**.
-
-If GitHub is currently showing the **"Create a new repository"** page, you can also tick **Add a README file** and paste the main content later.
-
-If you want, I can also :contentReference[oaicite:0]{index=0}.
